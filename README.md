@@ -19,3 +19,4 @@
 - **Tour Reviews** (clubs, diners, motels, parks, etc)
 - **EPK** (electronic press kit; could be mini site including feed (see below))
 - **Messaging** (could be core to some features: Collaborate, Trading Post; could even be abstracted to Tour Spiel, thinking about a Feed feature)
+- **Audio Player** (embeddable audio player)
