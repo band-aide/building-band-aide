@@ -1,22 +1,45 @@
 # Band-Aide platform
 
+## What is the Band-Aide platform?
+The Band-Aide platform makes being in or managing a DIY band easier.  It’s meant to be useful and fun.  
+
+Band-Aide is built on top of open-source technologies by musicians, for musicians. 
+
+If we build Band-Aide, they will come. If they need a feature, they can help build it. They being us. We being everyone. 
+
 ## Core
 - **API** (Catalog? Universe? All the Things?)
 	- users
 	- profiles (usually the same as the user, but user can have more than one)
 	- artists
 	- albums
+	- tracks (for collaborate; for albums?)
 	- labels
 	- shows
 	- venues
+	- stuff (for Trading Post? for merch?)
+	- posters (for shows, for sale, for art/display)
 
 ## Features
 - **Collaborate** (share Soundcloud tracks with collaboration requests)
-- **Inspirado** (inspiration api: random song, song description, song part descriptions glued together)
-- **Tour Planner** (map, travel times, fuel costs, weather alerts, etc)
+- **Inspirado** (inspiration api: random song, song description, song part descriptions glued together, oblique strategies, random art)
 - **Trading Post** (buy, sell, trade)
+- **Messaging** (could be core to some features: Collaborate, Trading Post; could even be abstracted to Tour Spiel, thinking about a Feed feature)
+- **Audio Player** (embeddable audio player)
+
+### Post-pandemic
+- **Tour Planner** (map, travel times, fuel costs, weather alerts, etc)
 - **Tour Spiel** (short updates, long diaries, and everything in-between)
 - **Tour Reviews** (clubs, diners, motels, parks, etc)
 - **EPK** (electronic press kit; could be mini site including feed (see below))
-- **Messaging** (could be core to some features: Collaborate, Trading Post; could even be abstracted to Tour Spiel, thinking about a Feed feature)
-- **Audio Player** (embeddable audio player)
+
+## Expertise needed
+- Data/base design and modeling
+- OpenAPI design/document
+- API architecture and implementation, perhaps with Loopback experience?
+- Devops, CI/CD and deployment
+- Carbon and React component architecture and implementation
+
+
+
+#some total/band-aide#
