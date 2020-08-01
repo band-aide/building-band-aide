@@ -34,5 +34,5 @@ If we build Band-Aide, they will come. If they need a feature, they can help bui
 - **EPK** (electronic press kit; could be mini site including feed (see below))
 
 ## Expertise needed
-see [expertise.md]()
+see [expertise.md]
 
