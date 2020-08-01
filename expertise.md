@@ -15,3 +15,4 @@
 - Paul Burt (NetApp) - Deployment/Containers
 - Dallas Simpson (SoulCycle) - Data
 - Jessica Katz (IBM Garage) - Design Thinking
+- Matt Rutkowski (IBM) - Serverless
