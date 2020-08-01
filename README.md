@@ -34,9 +34,5 @@ If we build Band-Aide, they will come. If they need a feature, they can help bui
 - **EPK** (electronic press kit; could be mini site including feed (see below))
 
 ## Expertise needed
-- Data/base design and modeling
-- OpenAPI design/document
-- API architecture and implementation, perhaps with Loopback experience?
-- Devops, CI/CD and deployment
-- Carbon and React component architecture and implementation
+see [expertise.md]()
 
