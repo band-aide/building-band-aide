@@ -40,6 +40,3 @@ If we build Band-Aide, they will come. If they need a feature, they can help bui
 - Devops, CI/CD and deployment
 - Carbon and React component architecture and implementation
 
-
-
-#some total/band-aide#
