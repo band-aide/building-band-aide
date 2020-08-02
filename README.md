@@ -11,7 +11,7 @@
     />
 </p>
 
-## What is the Band-Aide?
+## What is Band-Aide?
 Band-Aide makes being in or managing a DIY band easier.  It’s meant to be useful and fun.  
 
 Band-Aide is built on top of open-source technologies by musicians, for musicians. 
