@@ -1,3 +1,15 @@
+<!--lint disable no-literal-urls-->
+<p align="center">
+  <a href="https://band-aide.io/">
+    <img
+      alt="Band-Aide"
+      src="https://avatars0.githubusercontent.com/u/68490818"
+      width="400"
+    />
+  </a>
+</p>
+
+
 # Band-Aide platform
 
 ## What is the Band-Aide platform?
