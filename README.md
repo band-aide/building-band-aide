@@ -1,10 +1,9 @@
 <!--lint disable no-literal-urls-->
-<p align="center">
+<p>
   <a href="https://band-aide.io/">
     <img
       alt="Band-Aide"
-      src="https://avatars0.githubusercontent.com/u/68490818"
-      width="400"
+      src="https://avatars0.githubusercontent.com/u/68490818?s=200&v=4"
     />
   </a>
 </p>
