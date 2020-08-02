@@ -1,15 +1,15 @@
-<!--lint disable no-literal-urls-->
-<p>
-  <a href="https://band-aide.io/">
-    <img
-      alt="Band-Aide"
-      src="https://avatars0.githubusercontent.com/u/68490818?s=200&v=4"
-    />
-  </a>
-</p>
+
 
 
 # Band-Aide platform
+
+<!--lint disable no-literal-urls-->
+<p>
+    <img
+      alt="Band-Aide" align="right"
+      src="https://avatars0.githubusercontent.com/u/68490818?s=200&v=4"
+    />
+</p>
 
 ## What is the Band-Aide platform?
 The Band-Aide platform makes being in or managing a DIY band easier.  It’s meant to be useful and fun.  
