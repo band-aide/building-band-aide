@@ -27,7 +27,7 @@ If we build Band-Aide, they will come. If they need a feature, they can help bui
 - **Messaging** (could be core to some features: Collaborate, Trading Post; could even be abstracted to Tour Spiel, thinking about a Feed feature)
 - **Audio Player** (embeddable audio player)
 
-### Post-pandemic
+### Post-pandemic features
 - **Tour Planner** (map, travel times, fuel costs, weather alerts, etc)
 - **Tour Spiel** (short updates, long diaries, and everything in-between)
 - **Tour Reviews** (clubs, diners, motels, parks, etc)
