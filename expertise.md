@@ -10,9 +10,10 @@
 ## Expertise confirmed
 - Szabolcs Szabolcsi-Toth (IBM) - Expertise TBD
 
-## Potential Experts
+## Potential Experts (please)
 - Miroslav Bajtos (IBM) - Loopback/APIs
 - Paul Burt (NetApp) - Deployment/Containers
 - Dallas Simpson (SoulCycle) - Data
 - Jessica Katz (IBM Garage) - Design Thinking
 - Matt Rutkowski (IBM) - Serverless
+- Amy Chen (Apple)
