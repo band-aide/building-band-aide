@@ -18,6 +18,10 @@ Band-Aide is built on top of open-source technologies by musicians, for musician
 
 If we build Band-Aide, they will come. If they need a feature, they can help build it. They being us. We being everyone. 
 
+## Building Band-Aide
+
+Weekly Twitch stream on twitch.tv/ibmdeveloper at 3pm ET on Wednesdays
+
 ## Core
 - **API** (Catalog? Universe? All the Things?)
 	- users
