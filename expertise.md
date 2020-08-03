@@ -9,13 +9,13 @@
 
 ## Expertise confirmed
 - Szabolcs Szabolcsi-Toth (IBM) - Expertise TBD
+- Paul Burt (NetApp) - k8s and stateful apps
 
 ## Potential Experts (please)
 - Jessica Katz (IBM Garage) - Design Thinking
 - Miroslav Bajtos (IBM) - Loopback/APIs
 - Dallas Simpson (SoulCycle) - Data
 - Brad Nicholson (IBM) - Postgres
-- Paul Burt (NetApp) - Deployment/Containers?
 - Jan Kleinert (Red Hat) - OpenShift
 - Matt Rutkowski (IBM) - Serverless
 - Amy Chen (Apple)
