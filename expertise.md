@@ -11,7 +11,7 @@
 - Szabolcs Szabolcsi-Toth (IBM) - Expertise TBD
 - Paul Burt (NetApp) - k8s and stateful apps
 
-## Potential Experts (please)
+## Potential experts (please)
 - Jessica Katz (IBM Garage) - Design Thinking
 - Miroslav Bajtos (IBM) - Loopback/APIs
 - Dallas Simpson (SoulCycle) - Data
