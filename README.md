@@ -35,7 +35,7 @@ Weekly Twitch stream on [twitch.tv/ibmdeveloper](https://twitch.tv/ibmdeveloper)
 	- stuff (for Trading Post? for merch?)
 	- posters (for shows, for sale, for art/display)
 
-see [data.md]()
+see [data.md](data.md)
 
 
 ## Features
