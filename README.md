@@ -35,6 +35,9 @@ Weekly Twitch stream on [twitch.tv/ibmdeveloper](https://twitch.tv/ibmdeveloper)
 	- stuff (for Trading Post? for merch?)
 	- posters (for shows, for sale, for art/display)
 
+see [data.md]
+
+
 ## Features
 - **Collaborate** (share Soundcloud tracks with collaboration requests)
 - **Inspirado** (inspiration api: random song, song description, song part descriptions glued together, oblique strategies, random art)
