@@ -20,7 +20,9 @@ If we build Band-Aide, they will come. If they need a feature, they can help bui
 
 ## Building Band-Aide
 
-Weekly Twitch stream on [twitch.tv/ibmdeveloper](https://twitch.tv/ibmdeveloper) at 1pm ET on Mondays
+~~Weekly Twitch stream on [twitch.tv/ibmdeveloper](https://twitch.tv/ibmdeveloper) at 1pm ET on Mondays~~
+
+Weekly Twitch stream about to return...
 
 ## Core
 - **API** (Catalog? Universe? All the Things?)
