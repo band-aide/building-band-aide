@@ -41,13 +41,11 @@ see [data.md](data.md)
 
 
 ## Features
-- **Collaborate** (share Soundcloud tracks with collaboration requests)
+- **Collaborate** (share audio tracks with features related to collaborating between users)
 - **Inspirado** (inspiration api: random song, song description, song part descriptions glued together, oblique strategies, random art)
 - **Trading Post** (buy, sell, trade)
 - **Messaging** (could be core to some features: Collaborate, Trading Post; could even be abstracted to Tour Spiel, thinking about a Feed feature)
 - **Audio Player** (embeddable audio player)
-
-### Post-pandemic features
 - **Tour Planner** (map, travel times, fuel costs, weather alerts, etc)
 - **Tour Spiel** (short updates, long diaries, and everything in-between)
 - **Tour Reviews** (clubs, diners, motels, parks, etc)
